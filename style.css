@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background-color: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+p {
+  line-height: 1.6;
+}
+
+section {
+  padding: 30px 20px;
+  max-width: 900px;
+  margin: auto;
+  background-color: #fff;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
+#skills {
+    line-height: 1.7;
+}
+
+img{
+    width: 23%;
+    height: 23%
+}
